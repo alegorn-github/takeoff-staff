@@ -8,7 +8,7 @@ export type TContact = {
 }
 
 const Contacts:TContact[] = [
-    {name:'sss',phone:'sss',id:'fuuphv41x3b'}    
+    {name:'Sample contact',phone:'123456789',id:'fuuphv41x3b'}    
 ];
 
 const contacts = createSlice({
