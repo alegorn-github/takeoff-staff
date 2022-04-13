@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/takeoff-staff/static/css/main.cabb8267.css",
-    "main.js": "/takeoff-staff/static/js/main.5dec72cf.js",
+    "main.js": "/takeoff-staff/static/js/main.4966fcbf.js",
     "static/js/787.51a3f008.chunk.js": "/takeoff-staff/static/js/787.51a3f008.chunk.js",
     "index.html": "/takeoff-staff/index.html",
     "main.cabb8267.css.map": "/takeoff-staff/static/css/main.cabb8267.css.map",
-    "main.5dec72cf.js.map": "/takeoff-staff/static/js/main.5dec72cf.js.map",
+    "main.4966fcbf.js.map": "/takeoff-staff/static/js/main.4966fcbf.js.map",
     "787.51a3f008.chunk.js.map": "/takeoff-staff/static/js/787.51a3f008.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cabb8267.css",
-    "static/js/main.5dec72cf.js"
+    "static/js/main.4966fcbf.js"
   ]
 }
